@@ -232,12 +232,12 @@ We welcome contributions from everyone! Help us make this the most comprehensive
 ## 👥 Developers
 
 ### Ahmed Hamdy
-- **Role**: Full Stack Developer & CS Educator
+- **Role**: Full Stack Developer & PHP DEVELOPER
 - **GitHub**: [Ahmed-Hamdy101](https://github.com/Ahmed-Hamdy101)
 - **Focus**: Web Development, Open Source Education
 
 ### Mina Sameh
-- **Role**: Developer & Open Source Contributor
+- **Role**: MERN & NodeJS Backend Developer 
 - **GitHub**: [MinaSameh1](https://github.com/MinaSameh1)
 - **Focus**: Software Development, Community Building
 
