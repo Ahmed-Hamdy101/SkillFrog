@@ -1,6 +1,6 @@
 ![AWSMT](./assets/skillFroge.png)
 
-# Welcome to Awesome Material 👨‍💻
+# Welcome to Skil Frog 👨‍💻
 
 This is a list of material for CS Orinted People
 
