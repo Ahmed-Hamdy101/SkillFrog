@@ -1,4 +1,7 @@
-![AWSMT](./assets/skillFroge.png)
+<p align="center">
+  <img src="./assets/skillFroge.png" width="390"/>
+</p>
+
 
 # Welcome to Skil Frog 👨‍💻
 
