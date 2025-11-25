@@ -1,6 +1,5 @@
-![AWSMT](Logo.png)
 
-# Welcome to Awesome Material 👨‍💻
+# Welcome to SkillFrog 👨‍💻
 
 This is a list of material for CS Orinted People
 
@@ -8,7 +7,7 @@ This is a list of material for CS Orinted People
 
 <!--toc:start-->
 
-- [Welcome to Awesome Material 👨‍💻](#welcome-to-awesome-material-👨‍💻)
+- [Welcome to SkillFrog 👨‍💻](#welcome-to-awesome-material-👨‍💻)
 - [Table of contents](#table-of-contents)
 - [Colleges](#colleges)
   - [Harvard](#harvard)
