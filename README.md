@@ -1,258 +1,258 @@
+
+<div align="center">
+
 <p align="center">
   <img src="./assets/skillFroge.png" width="390"/>
 </p>
 
 
-# Welcome to Skil Frog 👨‍💻
+### The Ultimate Free Computer Science Learning Resources Hub
 
-This is a list of material for CS Orinted People
+[![GitHub stars](https://img.shields.io/github/stars/Ahmed-Hamdy101/Awesome-Material?style=for-the-badge&logo=github)](https://github.com/Ahmed-Hamdy101/Awesome-Material/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Ahmed-Hamdy101/Awesome-Material?style=for-the-badge&logo=github)](https://github.com/Ahmed-Hamdy101/Awesome-Material/network)
+[![100% Free](https://img.shields.io/badge/100%25-Free-brightgreen?style=for-the-badge)](https://github.com/Ahmed-Hamdy101/Awesome-Material)
+[![Open Source](https://img.shields.io/badge/Open-Source-blue?style=for-the-badge&logo=opensourceinitiative)](https://github.com/Ahmed-Hamdy101/Awesome-Material)
 
-# Table of contents
+**Your comprehensive guide to computer science education with curated FREE resources from top institutions worldwide**
 
-<!--toc:start-->
+[Explore Resources](#colleges) • [View Website](https://ahmed-hamdy101.github.io/Awesome-Material/) • [Contribute](#contribute)
 
-- [Welcome to Awesome Material 👨‍💻](#welcome-to-awesome-material-👨‍💻)
-- [Table of contents](#table-of-contents)
-- [Colleges](#colleges)
-  - [Harvard](#harvard)
-  - [Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
-    - [Course](#course)
-    - [Video Lectures](#video-lectures)
-    - [Instructors](#instructors)
-    - [Assignments](#assignments)
-    - [Exams](#exams)
-    - [Stanford](#stanford)
-- [Language Specific](#language-specific)
-  - [Python](#python)
-  - [Kotlin](#kotlin)
-  - [Javascript](#javascript)
-  - [Nodejs](#nodejs)
-  - [Typescript](#typescript)
-  - [PHP](#php)
-  - [Java EE](#java-ee)
-- [Backend Frameworks](#backend-frameworks)
-  - [Laravel](#laravel)
-- [Full Stack Frameworks](#full-stack-frameworks)
-  - [Codeigniter](#codeigniter)
-  - [Next JS](#next-js)
-- [Algorithms and Data structure](#algorithms-and-data-structure)
-- [Huawei Mobile Services Training](#huawei-mobile-services-training)
-- [Certifications](#certifications)
-  - [IT Certifications](#it-certifications)
-  - [CS Certifications](#cs-certifications)
-  - [Cybersecurity Career Certification](#cybersecurity-career-certification)
-- [Machine Learning](#machine-learning)
-- [Reverse engineering](#reverse-engineering)
-- [Security](#security)
-- [Clean Code](#clean-code)
-- [Interview Tech](#interview-tech)
-- [IOS On Windows](#ios-on-windows)
-- [Resources](#resources)
-<!--toc:end-->
+</div>
 
-# Colleges
+## 📚 Table of Contents
 
-## [Harvard](https://www.edx.org/cs50)
+- [🌟 About The Project](#-about-the-project)
+- [🏫 Top University Resources](#-top-university-resources)
+- [💻 Programming Languages](#-programming-languages)
+- [⚡ Frameworks & Technologies](#-frameworks--technologies)
+- [🎨 UI Libraries & Components](#-ui-libraries--components)
+- [🧠 Algorithms & Data Structures](#-algorithms--data-structures)
+- [👨‍🏫 Top CS Instructors](#-top-cs-instructors)
+- [📜 Certifications](#-certifications)
+- [🚀 Additional Resources](#-additional-resources)
+- [🤝 Contributing](#-contributing)
+- [👥 Developers](#-developers)
+- [📄 License](#-license)
 
-- [CS50-Certificate](https://cs50.harvard.edu/x/2021/)
-- [Security](https://cs50.harvard.edu/x/2021/weeks/security/)
+## 🌟 About The Project
+
+Awesome Material is a comprehensive collection of **100% free** computer science learning resources from world-renowned universities and platforms. We believe that quality education should be accessible to everyone, regardless of their financial situation.
+
+### ✨ Features
+
+- 🆓 **100% Free Resources** - No hidden costs, no subscriptions
+- 🏆 **Top University Courses** - Harvard, MIT, Stanford, and more
+- 💼 **Industry-Relevant Skills** - Programming, frameworks, algorithms
+- 🎯 **Structured Learning Paths** - From beginner to advanced
+- 🌍 **Global Community** - Contributors from around the world
+- 📱 **Mobile Responsive** - Learn on any device
+
+## 🏫 Top University Resources
+
+### Harvard University
+- [CS50: Introduction to Computer Science](https://www.edx.org/cs50)
+- [CS50 Certificate Materials](https://cs50.harvard.edu/x/2021/)
+- [Computer Security Fundamentals](https://cs50.harvard.edu/x/2021/weeks/security/)
 - [Artificial Intelligence](https://cs50.harvard.edu/x/2021/weeks/ai/)
-- [Cybersecurity](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
 
-## [Massachusetts Institute of Technology](https://ocw.mit.edu/)
+### MIT OpenCourseWare
+- [MIT OpenCourseWare Portal](https://ocw.mit.edu/)
+- [Python Programming Course](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
+- [Video Lectures](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
+- [Assignments & Exercises](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/assignments/)
 
-### Course
+### Stanford University
+- [Cybersecurity Resources](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
+- [Stanford Online Free Courses](https://online.stanford.edu/explore?type%5B%5D=Free)
+- [Stanford Engineering](https://see.stanford.edu/)
 
-- [Python](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/) : This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python™ programming language
+## 💻 Programming Languages
 
-### [Video Lectures](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
+| Language | Resources | Level |
+|----------|-----------|-------|
+| **Python** | [Learn Python](https://www.learnpython.org/) • [Official Tutorial](https://docs.python.org/3/tutorial/) • [freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | Beginner-Advanced |
+| **JavaScript** | [Modern JS Tutorial](https://javascript.info/) • [Reactively Overview](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph) • [Dependency Injection](https://snyk.io/blog/dependency-injection-in-javascript/) | All Levels |
+| **Kotlin** | [Kotlin Constructs](https://kau.sh/blog/important-kotlin-constructs/) • [Official Docs](https://kotlinlang.org/docs/home.html) • [Android Guides](https://developer.android.com/kotlin) | Intermediate |
+| **TypeScript** | [Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/) • [Data Validation](https://dev.to/polyov_dev/data-validation-in-typescript-using-the-either-pattern-4omk) • [Official Docs](https://www.typescriptlang.org/docs/) | Intermediate |
+| **PHP** | [PHP Basics](https://www.codingame.com/playgrounds/34845/le-php---les-bases-du-langage/introduction) • [Official PHP.net](https://www.php.net/) • [Advanced PHP](https://www.phptpoint.com/advanced-php-tutorial/) | Beginner-Advanced |
+| **Node.js** | [Node.js Courses](https://www.mygreatlearning.com/node-js/free-courses) • [Official Guides](https://nodejs.org/en/docs/guides/) • [freeCodeCamp Backend](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | Intermediate |
 
-### Instructors
+## ⚡ Frameworks & Technologies
 
-- [Prof. Eric Grimson](https://www.google.com/search?q=Prof.+Eric+Grimson&rlz=1C1YTUH_arEG1025EG1025&sourceid=chrome&ie=UTF-8)
-- [Prof. John Guttag](https://www.google.com/search?q=Prof.+John+Guttag&rlz=1C1YTUH_arEG1025EG1025&sourceid=chrome&ie=UTF-8)
+### Backend Frameworks
+- **Laravel** - [Learn Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm)
+- **Express.js** - [Official Guide](https://expressjs.com/)
+- **Spring Boot** - [Spring Guides](https://spring.io/guides)
 
-### [Assignments](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/assignments/)
+### Full Stack Frameworks
+- **CodeIgniter** - [Learn CodeIgniter](https://www.tutorialspoint.com/codeigniter/index.htm)
+- **Next.js** - [Learn Next.js](https://www.tutorialspoint.com/nextjs/index.htm)
+- **Vue.js** - [Vue.js Guide](https://vuejs.org/guide/introduction.html)
 
-### [Exams](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/exams/)
+## 🎨 UI Libraries & Components
 
-## Stanford
+Discover beautiful, modern UI libraries to accelerate your frontend development:
 
-- [Cybersecurity](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
+| Library | Description | Link |
+|---------|-------------|------|
+| **shadcn/ui** | Re-usable components built with Radix UI | [Visit](https://ui.shadcn.com) |
+| **Magic UI** | Beautiful animated components & templates | [Visit](https://magicui.design) |
+| **Aceternity UI** | Modern copy-paste ready components | [Visit](https://ui.aceternity.com) |
+| **HyperUI** | Free Tailwind CSS components | [Visit](https://www.hyperui.dev) |
+| **Preline UI** | Open-source UI component library | [Visit](https://preline.co) |
+| **Hover.dev** | Interactive components (some paid) | [Visit](https://www.hover.dev) |
 
-# Language Specific
+**More UI Libraries:**
+- [UI Layouts](https://www.ui-layouts.com/) • [Eldora UI](https://www.eldoraui.site) • [Cuicui](https://cuicui.day)
+- [Indie Starter UI](https://ui.indie-starter.dev) • [Flash UI](https://flashui.site) • [Fancy Components](https://www.fancycomponents.dev)
+- [21st.dev](https://21st.dev) • [Tailus](https://html.tailus.io) • [Ground UI](https://ground.bossadizenith.me)
+- [React Components](https://reactcomponents.com) • [Ever UI](https://www.ever-ui.com) • [Atomix UI](https://atomix-ui.vercel.app)
+- [Kokonut UI](https://kokonutui.com) • [Bun UI](https://bundui.io) • [Hexta UI](https://hextaui.com)
+- [Origin UI](https://originui.com) • [Just D](https://getjustd.com)
 
-## Python
+## 🧠 Algorithms & Data Structures
 
-- [Learning Python](https://www.learnpython.org/)
+Master essential computer science concepts for technical interviews and problem solving:
 
-## Kotlin
-
-[Important Kotlin Constructs](https://kau.sh/blog/important-kotlin-constructs/)
-
-## Javascript
-
-[Overview of Reactively](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph) : A JS framework that allows you to write lazy variables that are efficiently cached and updated, making it easier to write clean and fast code.  
-[Dependency Injection in JS](https://snyk.io/blog/dependency-injection-in-javascript/): Learn DI and see how frameworks impalement them.
-
-## Nodejs
-
-- [Learn NodeJs](https://www.mygreatlearning.com/node-js/free-courses)
-
-## Typescript
-
-[Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)  
-[Data Validation Using the Either Pattern](https://dev.to/polyov_dev/data-validation-in-typescript-using-the-either-pattern-4omk)
-
-## PHP
-
-- [Learn PHP](https://www.codingame.com/playgrounds/34845/le-php---les-bases-du-langage/introduction): PHP is Server-side Language build for create and developing web application, PHP its stand for Hypertext Preprocessor that work like Back-en, you will learn PHP Basic from here.
-- [Advance PHP](https://www.phptpoint.com/advanced-php-tutorial/) : After completing basics, you will go to learn Advance PHP that makes your Productivity High
-- [Database Orcale](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) : Learn Database From Orcale here you will see Free Turorial for full Database Trainning
-- [PDO With MySQL](https://phpdelusions.net/pdo_examples/connect_to_mysql): Learn to make PDO connection With mysql database ,queries,filter data, fetch data
-- [Shop Complete Project in PDO ](https://github.com/Ahmed-Hamdy101/PHP-Tutorial/tree/master/6-Using%20PHP%20with%20MySQL)
-- [Composer For PHP](https://wpscholar.com/courses/learning-composer-for-php/) : Learn how to make Dependencies in PHP
-- [PHP 7](https://www.tutorialspoint.com/php7/index.htm) : here you will Learn PHP 7 a new concepts in php
-- [PHP Unit](https://startutorial.com/view/phpunit-beginner-part-1-get-started): learn how to testing apps in php unit
-- Web Server
-  - [Apache](https://httpd.apache.org/) :The Apache HTTP Server is a free and open-source cross-platform web server software, released under the terms of Apache License 2.0. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation.
-  - [Xampp](https://www.apachefriends.org/) :its HTTP Server is a free and open-source cross-platform web server software build for php
-  - [Wampserver](https://www.wampserver.com/en/) :its HTTP Server is a free and open-source cross-platform web server software build for php
-  - [Mamp](https://www.mamp.info/en/downloads/) : its HTTP Server is a free and open-source cross-platform web server software build for php , python ,cloud , smtp
-- Website for php
-  - [Three House](https://teamtreehouse.com/tracks/beginning-php)
-  - [PHP Net](https://www.php.net/)
-
-## Java EE
-
-- [How Install Java EE](https://www.oracle.com/java/technologies/ee8-install-guide.html) : full installation for java EE server side language
-
-# Backend Frameworks
-
-- # Laravel
-  - [Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm) : A Backend framework for building APIs with PHP
-
-# Full Stack Frameworks
-
-- # Codeigniter
-  - [Codeigniter](https://www.tutorialspoint.com/codeigniter/index.htm) : A FullStack Framework for build app with PHP
-- # Next JS
-  - [Next JS](https://www.tutorialspoint.com/nextjs/index.htm) : A FullStack Framework for build app with NodeJS
-
-# Algorithms and Data structure
-
+### Core Concepts
 - [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
-- [Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
-- [Haystack and needle](https://medium.com/@fajardocj/algorithm-practice-find-a-needle-in-a-haystack-516ceeefd26c)
+- [Big O Notation](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
 - [Recursion](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
-- [Bubble](https://www.geeksforgeeks.org/bubble-sort/#:~:text=Bubble%20Sort%20is%20the%20simplest,time%20complexity%20is%20quite%20high.)
-- [Insertion Sort](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm#:~:text=Insertion%20Operation,any%20given%20index%20of%20array.)
-- [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
-- [Median Values](https://www.geeksforgeeks.org/median/#:~:text=The%20Median%20is%20the%20middle,of%20numbers%20below%20and%20above.)
-- [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
-- [Interfaces](https://opendatastructures.org/versions/edition-0.1c/ods-java/node5.html#:~:text=An%20interface%20describes%20what%20a,or%20meaning%2C%20of%20those%20operations.)
-- [Set](https://www.udacity.com/blog/2021/05/cpp-sets-explained.html#:~:text=A%20set%20is%20a%20data,a%20set%20must%20be%20unique.)
-- [Map](https://www.geeksforgeeks.org/which-data-structure-is-used-by-map/)
+
+### Data Structures
 - [Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 - [Queue](https://www.geeksforgeeks.org/queue-data-structure/)
 - [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
-- [Binary Search](https://www.geeksforgeeks.org/binary-search/)
-- [AVL Tree](https://www.geeksforgeeks.org/insertion-in-an-avl-tree/)
-- [Single Rotation](https://www.educative.io/answers/common-avl-rotation-techniques)
-- [Double Rotation](https://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-c++/html/page327.html#:~:text=The%20combination%20of%20the%20two,go%20left%20and%20then%20right.)
 - [Hash Table](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
-- [Functional Programming](https://medium.com/swlh/functional-programming-goes-hand-in-hand-with-immutable-data-structures-93a04feba1f3)
-- [Map Function](https://www.geeksforgeeks.org/which-data-structure-is-used-by-map/)
-- [Reduce](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Reduction.html)
-- [Filter](https://llimllib.github.io/bloomfilter-tutorial/#:~:text=A%20Bloom%20filter%20is%20a,may%20be%20in%20the%20set.)
+- [AVL Tree](https://www.geeksforgeeks.org/insertion-in-an-avl-tree/)
 
-# Huawei Mobile Services Training
+### Sorting Algorithms
+- [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
+- [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+- [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
+- [Insertion Sort](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
 
-- [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience
+### Practice Platforms
+- [LeetCode](https://leetcode.com/) - Coding interview practice
+- [HackerRank](https://www.hackerrank.com/) - Competitive programming
+- [freeCodeCamp Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [VisualGo](https://visualgo.net/en) - Algorithm visualizations
 
-# Certifications
+## 👨‍🏫 Top CS Instructors
 
-- # IT Certifications
-  - [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa) : Red Hat Certified System Administrator certification is able to perform the core system administration skills
-  - [MCSA: Windows Server 2012](https://learn.microsoft.com/en-us/certifications/mcsa-windows-server-certification/) : is a certification program intended for people who seek entry-level jobs in an information technology
-  - [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) : Certified Ethical Hacker: CEH certification program teaches latest hacking tools and techniques used by hacking professionals to lawfully hack
-  - [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna) : s an information technology certification from Cisco Systems. CCNA certification is an associate-level Cisco Career certification.
-  - [AWS](https://aws.amazon.com/ar/certification/certified-solutions-architect-associate/)
-  - [CISSP](https://www.isc2.org/Certifications/CISSP) : is an independent information security certification granted by the International Information System Security Certification Consortium, also known as (ISC)²
-  - [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) : Master Android development with Kotlin and build professional apps for the world's most popular mobile platform using Android Studio and Kotlin
-  - [ACE](https://learning.adobe.com/certification.html)
-  - [Digital Marketing](https://www.edureka.co/post-graduate/digital-marketing-certification?ranMID=42536&ranEAID=G33QIqr5BWY&ranSiteID=G33QIqr5BWY-Au6stV8yB6Xa2uAjkgTpqQ&LSNSUBSITE=LSNSUBSITE) : is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising,
-  - [HMS](https://developer.huawei.com/consumer/en/training/exam-home/101616662449026754) : Huawei Mobile Services is a collection of proprietary services and application programming interfaces developed by Huawei Technologies Co., Ltd. It is typically installed on Huawei devices running the Android operating system including devices already distributed with Google Mobile Services.
-- # CS Certifications
-  - [CS-50](https://cs50.harvard.edu/x/2021/certificate/) : Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus and more than 2,000,000 learners worldwide
+Learn from the world's most renowned computer science educators:
 
-# Machine Learning
+### Andrew Ng
+- **Specialization**: Machine Learning & AI
+- **Background**: Co-founder of Coursera, Stanford Adjunct Professor, founder of DeepLearning.AI
+- **Courses**: [Machine Learning Specialization](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#syllabus)
 
-- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#syllabus) : you need to make account, BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
+### Eric Grimson
+- **Specialization**: MIT Professor & CS Educator
+- **Background**: Chancellor for Academic Advancement at MIT
+- **Courses**: [MIT Python Course](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
 
-# Reverse engineering
+### David Malan
+- **Specialization**: Harvard CS50 Instructor
+- **Background**: Gordon McKay Professor of the Practice of Computer Science at Harvard
+- **Courses**: [CS50: Intro to Computer Science](https://cs50.harvard.edu/)
 
-- [Revese Engineering](https://0xinfection.github.io/reversing/)
+## 📜 Certifications
 
-# Security
+Boost your career with industry-recognized certifications:
 
-- [Cryptography](https://www.tutorialspoint.com/cryptography/index.htm)
-- [SSH](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
-- [SSL](https://franz.com/support/tutorials/ssl-tutorial.htm)
-- [Cipher](https://www.tutorialspoint.com/cryptography/traditional_ciphers.htm)
-- [Linux](https://www.javatpoint.com/linux-tutorial)
-- [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
+### IT Certifications
+- [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)
+- [MCSA: Windows Server 2012](https://learn.microsoft.com/en-us/certifications/mcsa-windows-server-certification/)
+- [CEH - Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- [CCNA - Cisco Certified](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 
-# Clean Code
+### CS Certifications
+- [CS50 - Harvard Certificate](https://cs50.harvard.edu/x/2021/certificate/)
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [HMS - Huawei Mobile Services](https://developer.huawei.com/consumer/en/training/exam-home/101616662449026754)
+- [freeCodeCamp Certifications](https://www.freecodecamp.org/learn)
 
-- [Clean Code](https://drive.google.com/file/d/1OMX1qEo24oTdAxofz2y1zXrtfFDuAbm5/view?usp=share_link) : it's book that allow you to write a prefact programs and increase of your quality code in org
+### Cybersecurity
+- **Security+** - Foundational security skills
+- [CISSP](https://www.isc2.org/Certifications/CISSP) - Advanced security certification
+- **CISM** - Information security management
+- [OSCP](https://www.offensive-security.com/pwk-oscp/) - Penetration testing certification
 
-# Interview Tech
+## 🚀 Additional Resources
 
-- [interview tech](https://www.techseries.dev/): how to pass interview in googl,Facebook,Apple,IBM
+### Machine Learning & AI
+- [Supervised Machine Learning Course](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#syllabus)
+- [Fast.ai - Practical Deep Learning](https://www.fast.ai/)
+- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
-# Cybersecurity Career Certification
+### Reverse Engineering
+- [Reverse Engineering Guide](https://0xinfection.github.io/reversing/)
+- [Begin RE - Reverse Engineering](https://www.begin.re/)
+- [Malware Unicorn Workshops](https://malwareunicorn.org/#/workshops)
 
-- Certification
-  - Security+
-  - GSEC
-  - SSCP
-  - CEH
-  - OSCP
-  - CISA
-  - CISSP
-  - CISM
-  - CPP
+### Security
+- [Cryptography Tutorial](https://www.tutorialspoint.com/cryptography/index.htm)
+- [SSH Essentials](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+- [Linux Tutorial](https://www.javatpoint.com/linux-tutorial)
 
-# IOS On Windows
+### Clean Code & Best Practices
+- [Clean Code Book](https://drive.google.com/file/d/1OMX1qEo24oTdAxofz2y1zXrtfFDuAbm5/view?usp=share_link)
+- [Refactoring Guru](https://refactoring.guru/)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-- [VMware Mac OS X installation](https://o7planning.org/10569/install-mac-os-virtual-machine-in-vmware)
-- [Sign Up With Apple](https://support.apple.com/en-us/HT204316)
-- [Downlaod Xcode](https://developer.apple.com/xcode/resources/)
-- I am not going to say how start require some knowledge in swift in order to devlop app
+### Interview Preparation
+- [Tech Interview Resources](https://www.techseries.dev/)
+- [Interview Cake](https://www.interviewcake.com/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-# Resources
-- [Udacity](/www.udacity.com/course/)
-- [GeekForGeeks](www.geeksforgeeks.org)
-- [Ex Facebook Tech Lead](https://www.techseries.dev)
-- [MIT](https://ocw.mit.edu/)
-- [Harved CS-50](https://www.edx.org/cs50)
-- [LearnPython](https://www.learnpython.org/)
-- [mygreatlearning](https://www.mygreatlearning.com/node-js/free-courses)
-- [Three House](https://teamtreehouse.com)
-- [PHP Official Site](https://www.php.net/)
-- [Laravel](https://www.laravel.com)
-- [Codeigniter](https://www.codeigniter.com) 
-- [Next JS](https://www.nextjs.com)
-- [Medium](https://medium.com)
-- [opendatastructures](https://opendatastructures.org)
-- [tutorialspoint](https://www.tutorialspoint.com)
-- [microsoft](https://www.learn.microsoft.com)
-- [Red Hat](https://www.redhat.com/en/services/certification)
-- [digitalocean](https://www.digitalocean.com/community/tutorials/)
-- [javatpoint](https://www.javatpoint.com/linux-tutorial)
-- [cisco](https://www.cisco.com/c/en/us/training-events/training-certifications)
-- [Coursera](https://www.coursera.org/learn)
-- [huawei](https://developer.huawei.com)
+### iOS Development on Windows
+- [VMware macOS Installation](https://o7planning.org/10569/install-mac-os-virtual-machine-in-vmware)
+- [Xcode Resources](https://developer.apple.com/xcode/resources/)
+- [Ray Wenderlich iOS Tutorials](https://www.raywenderlich.com/ios/paths/learn)
 
+## 🤝 Contributing
 
+We welcome contributions from everyone! Help us make this the most comprehensive collection of free computer science resources.
+
+### How to Contribute
+
+1. **Fork** the repository
+2. **Add** new resources or improve existing ones
+3. **Submit** a pull request
+4. **Join** our community of contributors
+
+### Contribution Ideas
+- Add new free courses and resources
+- Fix broken links
+- Improve documentation
+- Add translations
+- Suggest new categories
+
+## 👥 Developers
+
+### Ahmed Hamdy
+- **Role**: Full Stack Developer & CS Educator
+- **GitHub**: [Ahmed-Hamdy101](https://github.com/Ahmed-Hamdy101)
+- **Focus**: Web Development, Open Source Education
+
+### Mina Sameh
+- **Role**: Developer & Open Source Contributor
+- **GitHub**: [MinaSameh1](https://github.com/MinaSameh1)
+- **Focus**: Software Development, Community Building
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
+### ⭐ Star this repository if you find it helpful!
+
+**Let's make quality computer science education accessible to everyone** 🌍
+
+[Explore Website](https://ahmed-hamdy101.github.io/Awesome-Material/) • [Report Issue](https://github.com/Ahmed-Hamdy101/Awesome-Material/issues) • [Request Feature](https://github.com/Ahmed-Hamdy101/Awesome-Material/issues)
+
+</div>
